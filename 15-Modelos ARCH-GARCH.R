@@ -116,5 +116,3 @@ colnames(Resultados) <- c("Modelo","AIC","BIC")
 
 arch.test(melhor_modelo)
 
-#Modelando a Variância
-
